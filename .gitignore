@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+.env
+*.egg-info/
+dist/
+build/
+*.pkl
+*.sqlite3

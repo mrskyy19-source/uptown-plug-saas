@@ -1,0 +1,301 @@
+home_team,away_team,home_goals,away_goals,result
+USA,Senegal,3,1,H
+Qatar,Iran,2,2,D
+Ecuador,Morocco,1,0,H
+Portugal,Netherlands,1,0,H
+South Korea,Netherlands,3,2,H
+Tunisia,Morocco,2,0,H
+Germany,Argentina,1,0,H
+South Korea,Ghana,0,0,D
+Iran,Norway,2,1,H
+Senegal,Norway,3,1,H
+Qatar,Tunisia,1,0,H
+South Korea,Denmark,3,1,H
+Saudi Arabia,Cameroon,1,0,H
+Canada,Norway,1,2,A
+Norway,Qatar,2,1,H
+Qatar,Denmark,2,0,H
+Spain,Mexico,1,2,A
+France,Saudi Arabia,1,1,D
+Cameroon,Brazil,0,1,A
+Serbia,Switzerland,1,2,A
+Denmark,Argentina,0,0,D
+Serbia,Saudi Arabia,3,1,H
+Uruguay,Ecuador,2,0,H
+Norway,Belgium,0,1,A
+Norway,Senegal,2,1,H
+Canada,Australia,1,1,D
+Switzerland,Germany,1,0,H
+Senegal,Japan,0,2,A
+Portugal,France,1,2,A
+Serbia,USA,0,2,A
+Ecuador,South Korea,1,0,H
+Morocco,Spain,2,0,H
+Canada,Morocco,2,1,H
+Switzerland,Tunisia,0,0,D
+Poland,Iran,1,2,A
+Spain,Ecuador,0,2,A
+England,Senegal,3,2,H
+Ecuador,Argentina,1,2,A
+Norway,Japan,1,0,H
+Portugal,South Korea,2,0,H
+Tunisia,Brazil,1,0,H
+Brazil,Poland,3,1,H
+Qatar,Cameroon,1,0,H
+Mexico,Wales,0,0,D
+Wales,Morocco,1,1,D
+South Korea,Australia,1,2,A
+Ghana,Portugal,1,1,D
+Canada,Ecuador,2,1,H
+Belgium,Argentina,2,1,H
+Wales,Tunisia,0,1,A
+USA,Tunisia,0,2,A
+Netherlands,Wales,2,1,H
+Saudi Arabia,Senegal,1,1,D
+South Korea,Germany,1,1,D
+Australia,Iran,0,1,A
+Mexico,Spain,1,0,H
+Senegal,Uruguay,1,0,H
+South Korea,Denmark,0,0,D
+Cameroon,Norway,1,0,H
+Tunisia,Wales,2,2,D
+Wales,Croatia,1,1,D
+Tunisia,Japan,2,1,H
+Saudi Arabia,Brazil,1,2,A
+Germany,Japan,1,1,D
+Germany,Spain,3,1,H
+Cameroon,Poland,2,1,H
+Norway,Switzerland,2,2,D
+Japan,Ecuador,1,1,D
+Brazil,Spain,3,1,H
+Poland,Germany,2,1,H
+Canada,Portugal,0,1,A
+Morocco,Spain,2,0,H
+Qatar,Germany,1,2,A
+Croatia,France,2,2,D
+France,Switzerland,1,2,A
+USA,Ecuador,1,0,H
+USA,Norway,1,1,D
+Japan,Iran,2,1,H
+Argentina,Mexico,1,2,A
+Tunisia,Iran,2,0,H
+Belgium,Portugal,2,2,D
+Cameroon,Portugal,1,0,H
+Uruguay,Morocco,1,1,D
+Morocco,Ecuador,2,0,H
+Qatar,South Korea,1,0,H
+Morocco,Cameroon,1,1,D
+France,Ecuador,3,0,H
+South Korea,France,2,0,H
+Germany,Tunisia,1,0,H
+Argentina,Japan,1,0,H
+Cameroon,USA,2,1,H
+Germany,Japan,1,1,D
+Mexico,France,3,0,H
+Spain,Mexico,1,1,D
+Poland,Croatia,2,1,H
+Senegal,Uruguay,3,1,H
+Norway,Switzerland,1,0,H
+Germany,Switzerland,3,2,H
+Netherlands,Switzerland,0,1,A
+Tunisia,Spain,2,1,H
+Germany,Iran,2,1,H
+Germany,Ecuador,2,1,H
+Argentina,Croatia,1,2,A
+Japan,Tunisia,1,1,D
+Denmark,Iran,1,0,H
+Spain,Tunisia,3,1,H
+Australia,Poland,3,0,H
+Brazil,Canada,1,2,A
+Wales,Poland,0,1,A
+Uruguay,Denmark,0,2,A
+South Korea,Netherlands,0,1,A
+Netherlands,Poland,3,2,H
+Ecuador,Mexico,3,2,H
+Netherlands,Denmark,2,1,H
+Iran,Croatia,3,1,H
+Senegal,Germany,3,0,H
+Wales,Saudi Arabia,0,1,A
+Senegal,Portugal,2,1,H
+USA,Australia,1,1,D
+Ecuador,Denmark,0,0,D
+Norway,Argentina,1,1,D
+Argentina,Norway,2,1,H
+Portugal,Spain,3,1,H
+Croatia,Ecuador,0,1,A
+Croatia,Saudi Arabia,1,1,D
+Argentina,Canada,0,1,A
+France,Japan,1,2,A
+Saudi Arabia,Netherlands,0,0,D
+Japan,Argentina,1,1,D
+Senegal,Serbia,0,1,A
+USA,Canada,1,2,A
+Mexico,Japan,1,0,H
+Morocco,Poland,2,0,H
+Switzerland,Croatia,2,1,H
+Australia,Cameroon,1,2,A
+Switzerland,Denmark,1,2,A
+Saudi Arabia,Norway,3,1,H
+Uruguay,Iran,0,1,A
+Belgium,Germany,1,0,H
+Tunisia,USA,2,1,H
+Tunisia,Germany,0,0,D
+Spain,South Korea,3,0,H
+Germany,Brazil,1,1,D
+Portugal,Netherlands,2,0,H
+Serbia,England,0,0,D
+Japan,Senegal,1,0,H
+Qatar,Iran,1,0,H
+Tunisia,Spain,2,1,H
+Canada,South Korea,2,2,D
+Japan,Belgium,2,1,H
+Saudi Arabia,Ecuador,1,2,A
+Belgium,Morocco,1,1,D
+South Korea,France,1,2,A
+Ghana,Australia,0,1,A
+Iran,Norway,2,0,H
+Morocco,Japan,2,2,D
+Canada,Croatia,0,1,A
+Poland,Croatia,0,0,D
+Mexico,Serbia,1,0,H
+Belgium,Netherlands,1,2,A
+Belgium,Iran,1,0,H
+Mexico,England,1,1,D
+Norway,France,0,1,A
+Spain,Morocco,2,2,D
+Mexico,Ghana,2,2,D
+Wales,France,3,0,H
+Croatia,Denmark,2,1,H
+France,Norway,2,0,H
+Uruguay,Mexico,2,1,H
+Mexico,Morocco,1,0,H
+Qatar,Ghana,2,2,D
+Ghana,Iran,2,1,H
+Saudi Arabia,Canada,2,1,H
+Ecuador,Uruguay,3,2,H
+Norway,Ghana,2,0,H
+Senegal,Saudi Arabia,2,1,H
+South Korea,Serbia,0,1,A
+Poland,Spain,0,0,D
+France,Wales,2,1,H
+Spain,USA,1,2,A
+Germany,Saudi Arabia,2,1,H
+Argentina,Australia,3,1,H
+South Korea,Belgium,2,2,D
+Norway,Tunisia,2,0,H
+Mexico,Iran,1,0,H
+Spain,Wales,3,2,H
+Ghana,England,1,2,A
+Ghana,Iran,1,1,D
+USA,Senegal,1,1,D
+Croatia,Germany,1,0,H
+Denmark,Germany,1,0,H
+Uruguay,Poland,2,0,H
+Norway,Cameroon,1,0,H
+Netherlands,France,2,1,H
+USA,Portugal,1,0,H
+Switzerland,Saudi Arabia,3,0,H
+Wales,Ghana,1,1,D
+Croatia,Morocco,0,1,A
+South Korea,Denmark,1,1,D
+Portugal,Serbia,0,2,A
+Argentina,Brazil,1,1,D
+Morocco,Denmark,2,2,D
+Switzerland,Argentina,3,1,H
+Brazil,Belgium,2,0,H
+Brazil,Norway,0,1,A
+Wales,Spain,3,2,H
+Mexico,Ecuador,1,0,H
+Canada,Argentina,1,0,H
+Morocco,Senegal,1,2,A
+Portugal,Ghana,0,0,D
+Ecuador,Portugal,3,1,H
+Senegal,Poland,0,1,A
+Norway,Ecuador,2,2,D
+Brazil,Argentina,1,1,D
+Canada,USA,1,1,D
+France,Serbia,0,2,A
+France,Tunisia,0,2,A
+Belgium,Senegal,2,2,D
+Iran,Spain,1,0,H
+Morocco,Netherlands,3,0,H
+Ghana,Iran,2,0,H
+Portugal,Germany,2,2,D
+Wales,Tunisia,0,1,A
+Croatia,Uruguay,2,2,D
+Brazil,Mexico,1,1,D
+Brazil,Switzerland,1,1,D
+Argentina,Netherlands,0,1,A
+Spain,Qatar,1,2,A
+Brazil,Switzerland,0,2,A
+Croatia,South Korea,3,1,H
+Qatar,Canada,2,0,H
+Serbia,Saudi Arabia,1,1,D
+Canada,Croatia,2,1,H
+England,Croatia,1,1,D
+Netherlands,Poland,2,0,H
+Spain,Belgium,1,1,D
+USA,Argentina,1,0,H
+South Korea,Denmark,0,1,A
+Argentina,Poland,2,1,H
+Cameroon,Serbia,0,1,A
+South Korea,Canada,2,0,H
+Wales,Spain,0,1,A
+Mexico,Poland,0,1,A
+Wales,Australia,1,0,H
+England,Canada,2,1,H
+France,Senegal,3,1,H
+Cameroon,Morocco,2,1,H
+South Korea,France,1,1,D
+Switzerland,Argentina,1,0,H
+Serbia,Ghana,0,2,A
+Senegal,Ghana,0,1,A
+Mexico,Canada,2,0,H
+Belgium,Croatia,2,0,H
+Canada,Qatar,2,2,D
+Croatia,Germany,3,1,H
+Serbia,Netherlands,2,1,H
+Switzerland,Ecuador,1,1,D
+Brazil,Senegal,3,1,H
+Saudi Arabia,Cameroon,1,1,D
+Switzerland,Poland,1,2,A
+Senegal,Wales,2,1,H
+Poland,Spain,1,2,A
+Australia,Uruguay,1,1,D
+Canada,South Korea,2,1,H
+Iran,Wales,2,0,H
+Canada,Belgium,0,1,A
+France,Poland,2,0,H
+Wales,England,1,0,H
+Morocco,England,0,0,D
+Tunisia,Saudi Arabia,1,2,A
+Iran,Belgium,0,0,D
+Poland,Cameroon,1,1,D
+Cameroon,Saudi Arabia,2,1,H
+Serbia,Portugal,0,1,A
+Mexico,Qatar,2,2,D
+Senegal,Ecuador,1,1,D
+Norway,Senegal,2,2,D
+Saudi Arabia,Australia,1,1,D
+Portugal,Senegal,2,1,H
+USA,Tunisia,1,1,D
+South Korea,Denmark,0,0,D
+Belgium,Brazil,0,2,A
+Croatia,Switzerland,1,1,D
+Cameroon,USA,1,1,D
+South Korea,Serbia,1,1,D
+Mexico,Argentina,1,0,H
+Ecuador,Netherlands,1,2,A
+Serbia,Japan,2,0,H
+Australia,Netherlands,3,0,H
+Croatia,Switzerland,2,0,H
+Brazil,Norway,0,1,A
+Qatar,Senegal,1,0,H
+England,Ecuador,2,1,H
+Netherlands,Ecuador,2,2,D
+Iran,Ecuador,2,2,D
+Croatia,Senegal,3,0,H
+Germany,Spain,1,0,H
+South Korea,Poland,0,0,D
+Wales,England,0,1,A
+Tunisia,Denmark,0,1,A
