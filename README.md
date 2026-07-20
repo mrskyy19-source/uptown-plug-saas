@@ -1,35 +1,23 @@
 # Uptown Plug SaaS
 
-A SaaS application for [brief description here].
+A SaaS application for predicting team statistics and performance metrics for sports data analysis.
 
 ## Features
-- [Feature 1]
-- [Feature 2]
+- Real-time sports data prediction using machine learning
+- RESTful API for easy integration
+- Predictive modeling for team performance analysis
+- Modular architecture with separated concerns
 
 ## Installation
+
+### Prerequisites
+- Python 3.10+
+- pip package manager
+
+### Clone repository
 ```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/uptown-plug-saas.git
+git clone https://github.com/mrskyy19-source/uptown-plug-saas.git
+cd uptown-plug-saas
 
-# Install dependencies
 pip install -r app/requirements.txt
-
-# Run application
 python app/main.py
-```
-
-## Structure
-- `app/` - Main application code
-- `app/api/` - API routes
-- `app/models/` - Data models
-- `app/services/` - Business logic
-- `app/utils/` - Utility functions
-
-## Usage
-[Add usage instructions here]
-
-## Contributing
-[Add contribution guidelines if applicable]
-
-## License
-[Choose an appropriate license]
