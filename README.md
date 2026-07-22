@@ -1,35 +1,67 @@
 # Uptown Plug SaaS
 
-A SaaS application for [brief description here].
+A SaaS application for predicting team statistics and performance metrics for sports data analysis.
 
 ## Features
-- [Feature 1]
-- [Feature 2]
+- Real-time sports data prediction using machine learning
+- RESTful API for easy integration
+- Predictive modeling for team performance analysis
+- Modular architecture with separated concerns
 
 ## Installation
+
+### Prerequisites
+- Python 3.10+
+- pip package manager
+
+### Clone repository
 ```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/uptown-plug-saas.git
+git clone https://github.com/mrskyy19-source/uptown-plug-saas.git
+cd uptown-plug-saas
 
-# Install dependencies
 pip install -r app/requirements.txt
-
-# Run application
 python app/main.py
+
+# ⚽ Soccer Predictor Pro
+
+AI-powered soccer match prediction tool — data-driven insights for informed betting decisions.
+
+## Overview
+
+Soccer Predictor Pro combines a machine-learning prediction model with a clean web frontend to surface match outcome predictions pulled from live team statistics.
+
+## Components
+
+### `prediction_model.py`
+Core prediction engine.
+- Uses a `RandomForestClassifier` (scikit-learn) trained on team season stats
+- Pulls team statistics from the [SportsData.io](https://sportsdata.io) Soccer API (`TeamSeasonStats` endpoint)
+- Loads API credentials from a `.env` file via `python-dotenv` (`SPORTSDATA_API_KEY`)
+- Persists the trained model and team stats to disk (`model.pkl`, `team_stats.pkl`) so it doesn't need to retrain on every run
+- Logging configured via the standard `logging` module
+
+### `index.html`
+Frontend UI — a single-page interface presenting predictions to the end user, styled with a clean gradient design.
+
+## Setup
+
+```bash
+pip install pandas joblib requests python-dotenv scikit-learn
 ```
 
-## Structure
-- `app/` - Main application code
-- `app/api/` - API routes
-- `app/models/` - Data models
-- `app/services/` - Business logic
-- `app/utils/` - Utility functions
+Create a `.env` file in the project root:
+```
+SPORTSDATA_API_KEY=your_api_key_here
+```
 
 ## Usage
-[Add usage instructions here]
 
-## Contributing
-[Add contribution guidelines if applicable]
+```bash
+python prediction_model.py
+```
 
-## License
-[Choose an appropriate license]
+This loads (or trains, if not present) the prediction model and stats cache, then can be wired up to serve predictions to `index.html`.
+
+## Disclaimer
+
+Predictions are generated from statistical modeling and historical data — they are not guarantees of outcomes. Use responsibly; this tool is intended to support informed decision-making, not as financial advice.
